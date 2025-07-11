@@ -1,2 +1,2 @@
-# gwellary_template
-gwellary_template using HTML, CSS, BOOTSTRAP
+# Jewellery_template
+Jewellery_template using HTML, CSS, BOOTSTRAP
